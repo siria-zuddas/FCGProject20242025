@@ -1,13 +1,24 @@
 # Progetto finale di Fondamenti di Computer Grafica
 
-S5569720 Siria Zuddas
+## Descrizione
 
-Progetto d’esame in Blender
+Il progetto consiste nella realizzazione in Blender (versione 4.4.3) di un peluche dal gioco mobile Love And Deepspace, di INFOLD GAMES.
 
-Il progetto consiste nella realizzazione di un peluche dal gioco mobile Love And Deepspace, di INFOLD GAMES.
+## Struttura cartelle
 
-Prima di realizzarlo, per prendere un po’ la mano con Blender, ho seguito due tutorial youtube, da cui ho imparato tecniche e scorciatoie poi applicate nella realizzazione del mio peluche.
-I video in questione sono:
+- Artsy Bird (cartella principale)
+
+- - Blender (contiene tutti i file .blend)
+
+- - Documentation (contiene file pdf che descrivono tutti i passaggi effettuati per la realizzazione del progetto)
+
+- - References (contiene le immagini usate come reference per la realizzazione del progetto)
+
+## Fonti
+
+Prima di iniziare il progetto ho seguito due tutorial youtube per esercitarmi con Blender, da cui ho imparato tecniche e scorciatoie applicate nella realizzazione del progetto.
+
+I video tutorial sono:
 
 https://youtu.be/UAFx7wJkq0I?si=dtdmTzw0KOMBCaIe
 
