@@ -3,12 +3,31 @@
 ## Descrizione
 
 Il progetto consiste nella realizzazione in Blender di una scena contentente quattro peluche dal gioco mobile Love And Deepspace, di Infold Games.
+La scena è stata renderizzata in formato immagine e video.
 
 ## Struttura cartelle
 
 - Blender (contiene tutti i file .blend)
+  - Artsy Birb (primo peluche + inizio environment)
+    - ref (cartella con reference)
+    - vari file .blend
+  - Bunbun (secondo peluche)
+    - ref (cartella con reference)
+    - vari file .blend
+  - Grumpy Crow (terzo peluche)
+    - ref (cartella con reference)
+    - vari file .blend
+  - Happy Snowman (quarto peluche)
+    - ref (cartella con reference)
+    - vari file .blend
+  - Result (fine environment + animazione)
+    - ref (cartella con reference)
+    - vari file .blend
 - Documentazione
 - Rendering
+  - file "render.png" (prima renderizzazione dell'immagine)
+  - file "render2.png" (renderizzazione finale dell'immagine)
+  - file "Animazione.mp4" (video della scena finale)
 
 ## Informazioni importanti
 
