@@ -7,7 +7,7 @@ La scena è stata renderizzata in formato immagine e video.
 
 ## Struttura cartelle
 
-- Blender (contiene tutti i file .blend)
+- Blender (contiene tutti i file .blend e immagini usate per reference)
   - Artsy Birb (primo peluche + inizio environment)
     - ref (cartella con reference)
     - vari file .blend
@@ -23,7 +23,7 @@ La scena è stata renderizzata in formato immagine e video.
   - Result (fine environment + animazione)
     - ref (cartella con reference)
     - vari file .blend
-- Documentazione
+- Documentazione (contiene pdf con workflow, problematiche e spiegazione di tecniche/strumenti imparati)
 - Rendering
   - file "render.png" (prima renderizzazione dell'immagine)
   - file "render2.png" (renderizzazione finale dell'immagine)
