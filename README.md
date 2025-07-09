@@ -2,33 +2,24 @@
 
 ## Descrizione
 
-Il progetto consiste nella realizzazione in Blender (versione 4.4.3) di un peluche dal gioco mobile Love And Deepspace, di INFOLD GAMES.
+Il progetto consiste nella realizzazione in Blender di una scena contentente quattro peluche dal gioco mobile Love And Deepspace, di Infold Games.
 
 ## Struttura cartelle
 
-- Artsy Bird (cartella principale)
+- Blender (contiene tutti i file .blend)
+- Documentazione
+- Rendering
 
-- - Blender (contiene tutti i file .blend)
+## Informazioni importanti
 
-- - Documentation (contiene file pdf che descrivono tutti i passaggi effettuati per la realizzazione del progetto)
+Per una visualizzazione corretta delle immagini dentro a Blender, nel caso in cui non si vedessero, seguire i seguenti passaggi:
+- aprire la voce “Files” in alto a sinistra nella barra principale
+- selezionare "External Data”
+- selezionare “Find Missing Files…”
+- selezionare la cartella dove si trovano i file che si stanno visualizzando
 
-- - References (contiene le immagini usate come reference per la realizzazione del progetto)
+E’ necessario ripetere l’operazione quando si passa da una cartella all’altra.
 
-## Fonti
+Se ci fossero problemi di visualizzazione del pavimento/cornici quadri/disegno sulla tela, selezionare dopo “Find Missing Files…” la cartella “Result” (Blender > Result)
 
-Prima di iniziare il progetto ho seguito due tutorial youtube per esercitarmi con Blender, da cui ho imparato tecniche e scorciatoie applicate nella realizzazione del progetto.
-
-I video tutorial sono:
-
-https://youtu.be/UAFx7wJkq0I?si=dtdmTzw0KOMBCaIe
-
-https://youtu.be/X3gNgsvM8tY?si=ti0c-W-84GhY3oI7 
-
-
-A volte mi sono trovata in difficoltà e ho fatto riferimento ad altri video/shorts youtube per la risoluzione:
-
-https://youtu.be/jrLwxf4CWfo?si=kHDgs0ewvGVk7tXI (per fare le righe nel bavaglio del peluche)
-
-https://youtu.be/lfvGWWAxg90?si=ggDcqv9SNExaA92w (per fare la macchia di vernice sul pennello e nel corpo)
-
-https://youtube.com/shorts/wRHykYwhy_g?si=qYfzpUNC6j0SIVOI (per il buco nella tavolozza)
+(Probabilmente c’è un metodo migliore per ritrovare le immagini, ma questo è il più comodo che ho trovato)
